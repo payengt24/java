@@ -1,9 +1,13 @@
-#Java
+##Java
 
 ##Terminal
 
 *Compile source code
-```javac helloWorld.java```
+```
+javac helloWorld.java
+```
 
 *Run application in terminal
-```java helloWorld ```
+```
+java helloWorld 
+```
