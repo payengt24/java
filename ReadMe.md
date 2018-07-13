@@ -1,6 +1,6 @@
-##Java
+# Java
 
-##Terminal
+## Terminal
 
 *Compile source code
 ```
