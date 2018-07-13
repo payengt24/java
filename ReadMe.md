@@ -2,12 +2,12 @@
 
 ## Terminal
 
-*Compile source code
+* Compile source code
 ```
 javac helloWorld.java
 ```
 
-*Run application in terminal
+* Run application in terminal
 ```
 java helloWorld 
 ```
